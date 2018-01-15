@@ -8,7 +8,7 @@ Download the zip.
 Create folder "tictactoe".
 Put all the class and Java files in the folder except "TicTacToe" files.
 
-Fire command:
+Fire the command:
 ```
 appletviewer TicTacToe.java
 ```
